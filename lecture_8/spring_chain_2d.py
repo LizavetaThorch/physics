@@ -109,6 +109,7 @@ for time_i in range(int(t / dt)):
 
     draw_all(time_i)
 
+
 # Сохраняем гифку
 import glob
 import contextlib
